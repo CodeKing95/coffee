@@ -8,7 +8,7 @@ import DarkMode from "./DarkMode";
 const Menu = [
   {
     id: 1,
-    name: "Home",
+    name: "Chai Latte",
     link: "/#",
   },
   {
@@ -23,7 +23,7 @@ const Menu = [
   },
   {
     id: 3,
-    name: "Latte",
+    name: "Espresso",
     link: "/#",
   },
   {

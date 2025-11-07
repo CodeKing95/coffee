@@ -1,15 +1,15 @@
 import React from "react";
-import Img1 from "../../assets/women/ps5.png";
-import Img2 from "../../assets/women/women2.jpg";
-import Img3 from "../../assets/women/women3.jpg";
-import Img4 from "../../assets/women/women4.jpg";
+import Img1 from "../../assets/women/cro.png";
+import Img2 from "../../assets/women/don.png";
+import Img3 from "../../assets/women/co.png";
+import Img4 from "../../assets/women/straw.jpg";
 import { FaStar } from "react-icons/fa6";
 
 const ProductsData = [
   {
     id: 1,
     img: Img1,
-    title: "Playstation 5",
+    title: "Croissant",
     rating: 5.0,
     color: "white",
     aosDelay: "0",
@@ -17,7 +17,7 @@ const ProductsData = [
   {
     id: 2,
     img: Img2,
-    title: "Women western",
+    title: "Chocolate Donut",
     rating: 4.5,
     color: "Red",
     aosDelay: "200",
@@ -25,7 +25,7 @@ const ProductsData = [
   {
     id: 3,
     img: Img3,
-    title: "Goggles",
+    title: "chocolate chip cookie",
     rating: 4.7,
     color: "brown",
     aosDelay: "400",
@@ -55,14 +55,13 @@ const Products = () => {
         {/* Header section */}
         <div className="text-center mb-10 max-w-[600px] mx-auto">
           <p data-aos="fade-up" className="text-sm text-primary">
-            Top Selling Products for you
+            Come and get your our special deal.
           </p>
           <h1 data-aos="fade-up" className="text-3xl font-bold">
             Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+
           </p>
         </div>
         {/* Body section */}
