@@ -27,13 +27,11 @@ const Banner = () => {
               data-aos="fade-up"
               className="text-sm text-gray-500 tracking-wide leading-5"
             >
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-              reiciendis inventore iste ratione ex alias quis magni at optio
             </p>
             <div className="flex flex-col gap-4">
               <div data-aos="fade-up" className="flex items-center gap-4">
                 <GrSecure className="text-4xl h-12 w-12 shadow-sm p-4 rounded-full bg-violet-100 dark:bg-violet-400" />
-                <p>Quality Products</p>
+                <p>Quality Food and Drink.</p>
               </div>
               <div data-aos="fade-up" className="flex items-center gap-4">
                 <IoFastFood className="text-4xl h-12 w-12 shadow-sm p-4 rounded-full bg-orange-100 dark:bg-orange-400" />

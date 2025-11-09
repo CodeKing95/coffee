@@ -5,25 +5,25 @@ const TestimonialData = [
   {
     id: 1,
     name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "One of the best coffee brand ever!",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
     name: "Satya Nadella",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "MHHHMMMM it's just yummmmmmmmmmy",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
     name: "Virat Kohli",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "Best drink to get it from here after workout.",
     img: "https://picsum.photos/104/104",
   },
   {
     id: 5,
     name: "Sachin Tendulkar",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "I love the deals that comes with it.",
     img: "https://picsum.photos/103/103",
   },
 ];

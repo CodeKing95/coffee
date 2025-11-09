@@ -8,23 +8,23 @@ const ProductsData = [
   {
     id: 1,
     img: Img1,
-    title: "Casual Wear",
+    title: "2+2",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Get a chocolate and caramel latte with a donut and almond croissant.",
   },
   {
     id: 2,
     img: Img2,
-    title: "Printed shirt",
+    title: "Cake Latte",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Get a Delicious Latte with a Delicious Cake of your choice :).",
   },
   {
     id: 3,
     img: Img3,
-    title: "Women shirt",
+    title: "Spicy Caramel Cream Latte",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Make your lips Spicy.",
   },
 ];
 const TopProducts = ({ handleOrderPopup }) => {
@@ -40,8 +40,6 @@ const TopProducts = ({ handleOrderPopup }) => {
             Top Christmas Deal Now Available.
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
           </p>
         </div>
         {/* Body section */}

@@ -3,6 +3,7 @@ import Img1 from "../../assets/women/cro.png";
 import Img2 from "../../assets/women/don.png";
 import Img3 from "../../assets/women/co.png";
 import Img4 from "../../assets/women/straw.jpg";
+import Img5 from "../../assets/women/oreo1.png";
 import { FaStar } from "react-icons/fa6";
 
 const ProductsData = [
@@ -11,7 +12,6 @@ const ProductsData = [
     img: Img1,
     title: "Croissant",
     rating: 5.0,
-    color: "white",
     aosDelay: "0",
   },
   {
@@ -19,7 +19,6 @@ const ProductsData = [
     img: Img2,
     title: "Chocolate Donut",
     rating: 4.5,
-    color: "Red",
     aosDelay: "200",
   },
   {
@@ -27,25 +26,23 @@ const ProductsData = [
     img: Img3,
     title: "chocolate chip cookie",
     rating: 4.7,
-    color: "brown",
     aosDelay: "400",
   },
   {
     id: 4,
     img: Img4,
-    title: "Printed T-Shirt",
+    title: "Slice of strawberry Cake",
     rating: 4.4,
-    color: "Yellow",
     aosDelay: "600",
   },
-  {
+    {
     id: 5,
-    img: Img2,
-    title: "Fashin T-Shirt",
-    rating: 4.5,
-    color: "Pink",
-    aosDelay: "800",
+    img: Img5,
+    title: "Oreo Shake",
+    rating: 4.4,
+    aosDelay: "600",
   },
+
 ];
 
 const Products = () => {
@@ -55,7 +52,7 @@ const Products = () => {
         {/* Header section */}
         <div className="text-center mb-10 max-w-[600px] mx-auto">
           <p data-aos="fade-up" className="text-sm text-primary">
-            Come and get your our special deal.
+            Come and get your peace of mind.
           </p>
           <h1 data-aos="fade-up" className="text-3xl font-bold">
             Products

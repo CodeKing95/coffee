@@ -46,11 +46,10 @@ const Footer = () => {
           <div className="py-8 px-4">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
               <img src={footerLogo} alt="" className="max-w-[50px]" />
-              Shopsy
+              coffeebucks
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+              Make you day by getting our coffee.
             </p>
           </div>
 
@@ -108,11 +107,11 @@ const Footer = () => {
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida, Uttar Pradesh</p>
+                  <p>London, UK</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <FaMobileAlt />
-                  <p>+91 123456789</p>
+                  <p>+44 123456789</p>
                 </div>
               </div>
             </div>
