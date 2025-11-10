@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # Update-Portfolio
 # Shopsy
 # Shopsy
+# Coffee1
